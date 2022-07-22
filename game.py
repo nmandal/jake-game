@@ -1,6 +1,3 @@
-from sysconfig import is_python_build
-
-
 def main():
     print('Welcome to the Jake show - wanna play a game?')
     
